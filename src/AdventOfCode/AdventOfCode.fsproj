@@ -4,5 +4,6 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Year2018.fs" />
+    <Compile Include="Utils.fs" />
   </ItemGroup>
 </Project>
